@@ -1,5 +1,5 @@
 # XO-GAME
-## this's my first project by JS (DOC) with HTML :-
+## This is my first project in JAVASCRIPT, DOM and HTML :-
 
 
 ![XO-GAME](https://github.com/fares-agour/XO-GAME/assets/116801554/f34c6911-2748-4556-b4dc-20a3850196c6)
